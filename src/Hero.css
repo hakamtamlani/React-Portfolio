@@ -1,0 +1,7 @@
+.hero-container {
+    background-image: url(/public/bg-color.png); /* Replace with the path to your image */
+    background-size: cover; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+    width: 100%;
+  }
+  
